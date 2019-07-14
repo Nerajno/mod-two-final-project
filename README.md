@@ -40,4 +40,11 @@ Things you may want to cover:
     7. Restaurant should be able to delete orders.
     *** Click to show order's status {up||delivered||in progress}
 
-* ...
+### Task list
+Due: October 21, 2019
+
+- [ ] Style it better {break it down if necessary}.
+- [ ] Complete the Readme effieciently.
+- [ ] Do a video walk through of it and create a link in the read me.
+    - [ ] Host online or have a live version
+    
